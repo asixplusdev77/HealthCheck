@@ -37,7 +37,7 @@
     "flagsmith-nodejs": "^3.3.3",
     "flowbite-react": "^0.10.1",
     "next": "14.2.4",
-    "next-auth": "^4.24.7",
+    "next-auth": "^4.24.8",
     "react": "^18",
     "react-apexcharts": "^1.4.1",
     "react-dom": "^18",
