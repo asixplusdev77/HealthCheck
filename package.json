@@ -22,7 +22,7 @@
     "db:migrate:prod": "prisma migrate deploy"
   },
   "dependencies": {
-    "@auth/prisma-adapter": "^2.4.2",
+    "@auth/prisma-adapter": "^2.5.3",
     "@headlessui/react": "^2.1.5",
     "@heroicons/react": "^2.1.5",
     "@octokit/rest": "^21.0.0",
